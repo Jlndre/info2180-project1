@@ -115,6 +115,26 @@ nav li {
   margin-left: 85%;
 }
 
+.stories article {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.stories article img {
+  border-radius: 50%; 
+  width: 150px; 
+  height: 150px; 
+  object-fit: cover;
+  padding: 30px;
+}
+
+.article-body {
+  flex-grow: 1;
+  padding-right: 6%;
+  justify-content: space-around;
+}
+
 
 
 
