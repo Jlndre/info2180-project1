@@ -5,7 +5,7 @@ body {
 }
 
 .container {
-    display: flex;
+
     margin: 0 auto;
     max-width: 980px;
     width: 100%;
@@ -91,4 +91,31 @@ nav li {
   text-align: center;
   margin: 10px;
 }
+
+/* Testing Section */
+.testing{
+  padding: 100px;
+}
+.testing-desciption{
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  padding: 0px 0; /* Adjust padding as needed */
+}
+
+.testing-desciption p{
+  display: flex;
+  padding-right: 35%;
+
+}
+
+.testing a{
+  display: flex;
+  margin-top: -5%;
+  margin-left: 85%;
+}
+
+
+
+
 
