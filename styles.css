@@ -183,6 +183,12 @@ nav a:hover {
   padding-top: 30px;
 }
 
+.newsletter p{
+  padding-right: 25%;
+  padding-left: 30%;
+  text-align: left;
+}
+
 .form-group {
   display: inline-block;
   margin-right: 10px;
@@ -214,6 +220,10 @@ input[type="email"] {
 
 footer .container {
   background-color: #4A5568;
-  color: #fff; /* Set text color to white for better readability */
+  color: #fff;
+  
 }
 
+footer p{
+  margin-left: 10%;
+}
