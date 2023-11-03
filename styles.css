@@ -15,19 +15,25 @@ body {
 header {
   background-color: #ffffff;
   padding: 10px 0;
+
 }
 
 header .container{
   display: flex;
   justify-content: space-between;
   align-items: center;
+  
+}
+
+header h1 {
+  font-size: 18px;
 }
 
 nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-
+  font-size: 18px;
 }
 
 nav li {
@@ -38,6 +44,7 @@ nav li {
 nav li a{
   color: #6b7280;
   text-decoration: none;
+  font-size: 18px;
 }
 
 nav a:hover {
