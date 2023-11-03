@@ -18,6 +18,10 @@ header {
 
 }
 
+header h1 {
+  font-size: 18px;
+}
+
 header .container{
   display: flex;
   justify-content: space-between;
@@ -91,7 +95,8 @@ nav a:hover {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 20px;
-  
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .card{
