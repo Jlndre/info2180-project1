@@ -64,7 +64,7 @@ nav a:hover {
   margin-right: 0px;
 }
 
-/* Learn About Section (CSS Grid) */
+/* Learn About Section */
 .learn-about .container{
   display: flex;
   flex-direction: column;
@@ -85,7 +85,6 @@ nav a:hover {
   grid-template-columns: 1fr 1fr 1fr;
   gap: 20px;
   
-
 }
 
 .card{
