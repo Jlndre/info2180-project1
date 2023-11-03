@@ -41,7 +41,7 @@ nav li a{
 }
 
 nav a:hover {
-  color: #5A67D8; /* Link color on hover */
+  color: #5A67D8; 
 }
 
 /* Overview Hero */
@@ -69,7 +69,7 @@ nav a:hover {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 5px 0; /* Adjust padding as needed */
+  padding: 5px 0; 
   margin-top: 3%;
 }
 
@@ -124,7 +124,6 @@ nav a:hover {
 }
 
 .testing-desciption{
-  flex-grow: 1; /* Allow the description to take up remaining space */
   color: white;
   padding: 80px;
 }
